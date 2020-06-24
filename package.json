@@ -1,0 +1,11 @@
+{
+  "name": "freelance-data",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Chetan Yadav",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
